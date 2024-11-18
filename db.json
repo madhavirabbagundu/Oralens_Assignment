@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Pratidinam",
+      "age": 20,
+      "file": ""
+    },
+    {
+      "name": "mouni",
+      "age": "56",
+      "file": "C:\\fakepath\\Screenshot (446).png",
+      "id": 2
+    },
+    {
+      "name": "chaithu",
+      "age": "65",
+      "file": "",
+      "id": 3
+    },
+   
+    {
+      "name": "Madhavi Rabbagundu",
+      "age": "45",
+      "file": "C:\\fakepath\\Screenshot (445).png",
+      "id": 5
+    }
+  ]
+}
